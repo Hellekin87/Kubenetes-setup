@@ -1,3 +1,6 @@
+Works for HYPRIOT OS
+
+
 -> install sshpass
 
 -> edit main.js and enter master / node ips + password & username
